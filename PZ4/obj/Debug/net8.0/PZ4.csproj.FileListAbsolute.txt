@@ -12,3 +12,4 @@ C:\Users\Артур\source\repos\PZ4\PZ4\obj\Debug\net8.0\refint\PZ4.dll
 C:\Users\Артур\source\repos\PZ4\PZ4\obj\Debug\net8.0\PZ4.pdb
 C:\Users\Артур\source\repos\PZ4\PZ4\obj\Debug\net8.0\PZ4.genruntimeconfig.cache
 C:\Users\Артур\source\repos\PZ4\PZ4\obj\Debug\net8.0\ref\PZ4.dll
+C:\Users\Артур\source\repos\PZ4\PZ4\obj\Debug\net8.0\PZ4.sourcelink.json
