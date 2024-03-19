@@ -17,6 +17,7 @@ namespace PZ4
                             Console.WriteLine($"Element: {numbers[number]}");
                         }
            ______________________________________________________________
+            */
             Random rand = new Random();
             const int VALUE = 40;
             int[] numbers = new int[VALUE];
@@ -38,11 +39,13 @@ namespace PZ4
 
 
                 }
-               
+
             }
             Console.WriteLine($"\nArrays include {counter} pair numbers");
+            /*
             _____________________________________________________________
-           
+
+
             int counterOfSymbol = 0;
             int counter = 0;
 
