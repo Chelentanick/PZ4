@@ -67,7 +67,7 @@ namespace PZ4
             Console.WriteLine($"Text '{text}' include {counter} symbols ");
             Console.WriteLine($"Number of this symbol '{symbol}' is {counterOfSymbol}");
             _____________________________________________________________
-           
+           */
 
             char[] alphabet = new char[26];
             for (int i = 0; i < alphabet.Length; i++)
@@ -79,7 +79,7 @@ namespace PZ4
             {
                 Console.WriteLine($"Letter: {symbol};    In ASCII: {(int)symbol}");
             }
-             */
+             
         }
 
     }
