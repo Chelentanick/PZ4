@@ -8,7 +8,7 @@ namespace PZ4
 
         public static void Main(string[] args)
         {
-            /*          int[] numbers = new int[50];
+                   int[] numbers = new int[50];
                         int i = 0;
                         foreach (int number in numbers) 
                         {
@@ -16,6 +16,7 @@ namespace PZ4
                             numbers[number] = i;
                             Console.WriteLine($"Element: {numbers[number]}");
                         }
+           /* 
            ______________________________________________________________
             Random rand = new Random();
             const int VALUE = 40;
